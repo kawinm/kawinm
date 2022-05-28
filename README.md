@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 I'm Kawin
-🔭 I’m currently working on Knowledge Graphs and Graph Representation Learning
-📫 How to reach me: kawinstark@gmail.com
+😄 I'm Kawin  
+🔭 I’m currently working on Knowledge Graphs and Graph Representation Learning  
+📫 How to reach me: kawinstark@gmail.com  
